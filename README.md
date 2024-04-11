@@ -1,6 +1,6 @@
 # 👋 Hi, *I’m Sayali Gaikwad*
 
-[![LinkedIn Logo](linkedin.png)](https://www.linkedin.com/in/sayali-gaikwad-897b5580)
+[![LinkedIn Logo](LI-Logo.png)](https://www.linkedin.com/in/sayali-gaikwad-897b5580)
 
 
 - 👀 I’m interested in Android App Development
