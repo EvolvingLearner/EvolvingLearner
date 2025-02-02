@@ -15,6 +15,10 @@
   [![Agile](https://img.shields.io/badge/Certificate-green?style=for-the-badge&logo=Agile&label=Agile&labelColor=purple)
 ](https://www.linkedin.com/learning/certificates/8bf057973ec8f48921293179601b31bc8a94f65ad0179d2b680b3703d4f7c6ff)
 
+  [![Google Play](https://img.shields.io/badge/GooglePlayAcademy-black?style=for-the-badge&logo=GooglePlay&logoColor=green&logoSize=auto)
+  ](https://pdf.credential.net/l19jwawq_1725050987875.pdf)
+
+
 
 # Technologies 
 ![Static Badge](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=Kotlin&labelColor=black)
