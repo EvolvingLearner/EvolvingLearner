@@ -1,4 +1,4 @@
-# Hi👋,  *I’m Sayali Gaikwad* :technologist:
+# Hi👋,  *I’m Sayali* :technologist:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sayali-gaikwad-897b5580)
 [![Hacker Rank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/sayaligaikwad_u1)
