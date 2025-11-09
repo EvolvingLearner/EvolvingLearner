@@ -3,7 +3,7 @@
 
 ## About Me 💻📚
 
-- 👀 I’m Android Application Developer transition to Product Owner.
+- 👀 I’m a Product Owner with a strong background in Android app development.
 - I’m passionate about learning new technologies and incoporating them into my apps/products.
 - Passionate about building technically robust, customer-centric solutions that align with strategic product roadmaps.
   
