@@ -1,13 +1,12 @@
 # Hi👋,  *I’m Sayali* :technologist:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sayali-gaikwad-897b5580)
 [![Hacker Rank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/sayaligaikwad_u1)
 
 ## About Me 💻📚
 
-- 👀 I’m Android Application Developer.
-- I’m passionate about learning new technologies and incoporating them into my apps.
-- I always want to be a best coder.
+- 👀 I’m Android Application Developer transition to Product Owner.
+- I’m passionate about learning new technologies and incoporating them into my apps/products.
+- Passionate about building technically robust, customer-centric solutions that align with strategic product roadmaps.
   
   #### 🎉 My Achivements 🏆 
   [![GitHub](https://img.shields.io/badge/Certificate-black?style=for-the-badge&logo=GitHub&label=Github)](https://www.linkedin.com/learning/certificates/1d73ddf948982870e06afe8a44d037af173ef11d021ff12d8599027904ba1a5c)
