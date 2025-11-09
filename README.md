@@ -1,6 +1,5 @@
 # Hi👋,  *I’m Sayali* :technologist:
 
-[![Hacker Rank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/sayaligaikwad_u1)
 
 ## About Me 💻📚
 
